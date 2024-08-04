@@ -1,0 +1,9 @@
+columns:
+- players_clubs
+- players_goals
+- players_assists
+- players_ratings
+- players_name
+- players_tenor_in_one_club
+- players_matches
+separator: ','
